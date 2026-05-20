@@ -1,0 +1,8 @@
+{
+    "version": "0.2.10",
+    "filename": "firmware.bin",
+    "firmware_url": "https://github.com/padmaraj172/smartpump-ota-firmware/releases/latest/download/firmware.bin",
+    "size": 1234567,
+    "release_notes": "Bug fixes",
+    "published_at": "2026-05-20"
+}
