@@ -1,5 +1,5 @@
 {
-    "version": "0.2.14",
+    "version": "0.2.15",
     "filename": "firmware.bin",
     "firmware_url": "https://raw.githubusercontent.com/padmaraj172/smartpump-ota-firmware/main/firmware.bin",
     "size": 1662960,
